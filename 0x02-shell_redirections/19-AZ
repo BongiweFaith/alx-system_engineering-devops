@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[[:aplha:]]" /etc/ssh/sshd_config
+t "A" "Z" | tr "c" "e"
